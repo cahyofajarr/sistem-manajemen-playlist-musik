@@ -1,10 +1,9 @@
 /*
- * =====================================================================
+
  * Data Structures and Algorithm Analysis (COSC6025)
  * Tugas Kelompok ke-3 - Week 8
  * Algorithmic Analysis, Mathematical Induction, and Recursive Functions
- * ---------------------------------------------------------------------
- * Kelas    : [ISI KELAS SEBELUM SUBMIT]
+
  * Kelompok : Group 3
  * Anggota  :
  *   1. Bima Wardana              - 2902826772
@@ -12,11 +11,11 @@
  *   3. Vieri Peter Delan Kalalo  - 2902829244
  *   4. Ely Rahmawati             - 2902822686
  *   5. Cahyo Fajar Riyanto       - 2902812350
- * ---------------------------------------------------------------------
+ 
  * Cara menjalankan:
  *   javac Lagu.java PlaylistRekursif.java
  *   java PlaylistRekursif
- * =====================================================================
+
  */
 
 import java.io.OutputStream;
